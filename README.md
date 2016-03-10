@@ -1,9 +1,9 @@
 # DISMATH-PROJ-BONUS-AirJ
 #Homepage
-![Screenshots](Screen.jpg)
+![Screenshots](Homepage.jpg)
 #block1
-![Screenshots](Screen.jpg)
+![Screenshots](block1.jpg)
 #block2
-![Screenshots](Screen.jpg)
+![Screenshots](block2.jpg)
 #block3
-![Screenshots](Screen.jpg)
+![Screenshots](block3.jpg)
